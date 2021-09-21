@@ -1,0 +1,12 @@
+c:\users\info2\documents\visual studio 2013\Projects\BinarySearchv2\BinarySearchv2\bin\Debug\BinarySearchv2.exe.config
+c:\users\info2\documents\visual studio 2013\Projects\BinarySearchv2\BinarySearchv2\bin\Debug\BinarySearchv2.exe
+c:\users\info2\documents\visual studio 2013\Projects\BinarySearchv2\BinarySearchv2\bin\Debug\BinarySearchv2.pdb
+c:\users\info2\documents\visual studio 2013\Projects\BinarySearchv2\BinarySearchv2\obj\Debug\BinarySearchv2.csprojResolveAssemblyReference.cache
+c:\users\info2\documents\visual studio 2013\Projects\BinarySearchv2\BinarySearchv2\obj\Debug\BinarySearchv2.exe
+c:\users\info2\documents\visual studio 2013\Projects\BinarySearchv2\BinarySearchv2\obj\Debug\BinarySearchv2.pdb
+J:\Projects\BinarySearchv2\BinarySearchv2\bin\Debug\BinarySearchv2.exe.config
+J:\Projects\BinarySearchv2\BinarySearchv2\obj\Debug\BinarySearchv2.exe
+J:\Projects\BinarySearchv2\BinarySearchv2\obj\Debug\BinarySearchv2.pdb
+J:\Projects\BinarySearchv2\BinarySearchv2\bin\Debug\BinarySearchv2.exe
+J:\Projects\BinarySearchv2\BinarySearchv2\bin\Debug\BinarySearchv2.pdb
+J:\Projects\BinarySearchv2\BinarySearchv2\obj\Debug\BinarySearchv2.csprojResolveAssemblyReference.cache
